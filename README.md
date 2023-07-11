@@ -1,2 +1,2 @@
-# Practice-medicine
+# Electron.js app
 Some tasks
