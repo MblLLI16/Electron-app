@@ -1,0 +1,27 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "my project electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MblLLI16/Electron-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MblLLI16/Electron-app/issues"
+  },
+  "homepage": "https://github.com/MblLLI16/Electron-app#readme",
+  "dependencies": {
+    "electron": "^25.2.0",
+    "iconv-lite": "^0.6.3"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^3.2.9"
+  }
+}

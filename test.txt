@@ -1,0 +1,9 @@
+Active Window: Visual Studio Code 
+Google Chrome 
+File Explorer 
+
+Active Window: Google Chrome 
+File Explorer 
+
+Active Window: File Explorer 
+Google Chrome
